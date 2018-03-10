@@ -1,0 +1,1 @@
+$(document).ready(function() {  'use strict';	$('#fullpage').fullpage({		anchors:['firstPage', 'secondPage', 'thirdPage'],    scrollOverflow: true,    responsiveWidth: 768	});});
